@@ -32,7 +32,7 @@
     "soletta-dev-app": "0.0.8",
     "st": "0.2.4",
     "stream-buffers": "^3.0.1",
-    "tap": "^5.7.0"
+    "tap": "^14.10.8"
   },
   "devDependencies": {
     "browserify": "^13.1.1"
